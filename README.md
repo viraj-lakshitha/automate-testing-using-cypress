@@ -1,4 +1,5 @@
-# Initialize Project
+# Test Automation using Cypress
+[![CircleCI](https://circleci.com/gh/viraj-lakshitha/automate-testing-using-cypress/tree/main.svg?style=svg)](https://circleci.com/gh/viraj-lakshitha/automate-testing-using-cypress/tree/main)
 
 ## Create Project and Install Cypress
 ```
