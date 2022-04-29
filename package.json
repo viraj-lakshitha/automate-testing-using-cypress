@@ -1,0 +1,11 @@
+{
+  "name": "automate-testing-using-cypress",
+  "version": "1.0.0",
+  "description": "Automate testing using Cypress",
+  "main": "index.js",
+  "author": "Viraj Lakshitha",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
