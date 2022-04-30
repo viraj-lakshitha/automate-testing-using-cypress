@@ -14,7 +14,7 @@ describe('Test Login Functionality', () => {
     cy.url().should('include', '/login')
 
     // Get the Username field
-    cy.get("input#username.login-right-container-form-item-input").type("user@devstory.com")
+    cy.get("input#username.login-right-container-form-item-input").type("user")
 
     // Get the Password field
     cy.get("input#password.login-right-container-form-item-input").type("Password@12#$")
