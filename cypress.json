@@ -1,1 +1,4 @@
-{}
+{
+  "baseUrl": "https://devstory-portal.herokuapp.com/",
+  "video": false
+}
